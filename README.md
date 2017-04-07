@@ -1,4 +1,3 @@
-# smartCurtains
 # Connected SMART Curtains
 ### (API for fanController)
 
